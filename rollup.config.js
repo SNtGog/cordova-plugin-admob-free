@@ -5,7 +5,7 @@ import { uglify } from 'rollup-plugin-uglify'
 import { browserslist } from './package.json'
 
 export default {
-  input: 'src/js/admob.js',
+  input: 'src/js/admb333.js',
   output: {
     format: 'cjs',
     sourcemap: true,
